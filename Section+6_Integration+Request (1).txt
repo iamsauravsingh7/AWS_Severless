@@ -1,0 +1,10 @@
+Integration Request
+
+application/json
+
+{
+
+"bucket" : "$input.params('bucket')",
+"key" : "$input.params('key')"
+
+}
